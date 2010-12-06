@@ -9,7 +9,7 @@ limitFramerate:true
 difficulty:2
 fancyGraphics:true
 skin:Default
-lastServer:
+lastServer:24.237.32.124
 key_Forward:17
 key_Left:30
 key_Back:31
